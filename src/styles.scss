@@ -1,0 +1,27 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+/* You can add global styles to this file, and also import other style files */
+$titles: 'Open Sans';
+$par: 'Roboto';
+$regular-font: sans-serif;
+
+//Colors
+$primary: #6200EE;
+$primary2: #3700B3;
+$secondary: #03DAC6;
+$secondary2: #018786;
+$error: #B00020;
+$background: #e7e7e7;
+$surface: #fff;
+$header-text: #FFFF;
+$side-text: rgb(0, 0, 0);
+$side-menu-icons: #606060;
+$side-menu-hover-items: #e5e5e5;
+
+//Screen sizes
+$extraSmall: 20em;
+$small: 32.0625em;
+$medium: 48.0625em;
+$mediumLarge: 62 em;
+$large: 64.0625em;
